@@ -43,7 +43,7 @@ defmodule Riboflavin.Mixfile do
       files: ["lib", "config", "mix.exs", "README*"],
       maintainers: ["Garrett Johnson"],
       licenses: ["MIT"],
-      links: %{"Github" => ""}]
+      links: %{"Github" => "https://github.com/silentdragonz/riboflavin"}]
   end
 
   defp env do
